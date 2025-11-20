@@ -17,3 +17,7 @@ Este projeto é uma tela de login simples, desenvolvida utilizando apenas HTML e
 * HTML5
 
 * CSS3
+
+🌐 Responsividade
+
+* A tela de login foi construída com foco em uma boa experiência em diferentes tamanhos de tela.
