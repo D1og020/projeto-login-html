@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+:root {
+    --ff-base: "Roboto", sans-serif;
+}
+
+body {
+    font: 500 1rem/1.5 var(--ff-base);
+    color: white;
+    background: #1C1C1E;
+
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input:focus {
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 25rem;
+    width: 100%;
+    margin-inline: auto;
+}
